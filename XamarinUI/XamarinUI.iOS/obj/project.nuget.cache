@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCy+8RjKZ4OrxU4NOx5T+RWCdJAbXYrh2ZYGR0c/imGJPoihl9zuL8mgLl0NsrWHRC3qAxYtkeNcoa07qmHm+g==",
+  "success": true,
+  "projectFilePath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI.iOS\\XamarinUI.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
