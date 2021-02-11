@@ -2,8 +2,8 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.xamarinui"
-	.size	.L.env.str.1, 26
+	.asciz	"com.companyname.Password_Reset_Flow"
+	.size	.L.env.str.1, 36
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	2
@@ -71,7 +71,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"57538eed-c11c-4b51-b3bd-4c724319ff95"
+	.asciz	"fd8a8f74-fe4e-4cf7-beef-b4d9cdca167a"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object

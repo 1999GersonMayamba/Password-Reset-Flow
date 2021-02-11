@@ -11,11 +11,11 @@ using System.Linq;
 using System.Text;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
-using XamarinUI.Droid.Custom;
-using XamarinUI.REDENRS;
+using Password_Reset_Flow.Droid.Custom;
+using Password_Reset_Flow.REDENRS;
 
 [assembly: ExportRenderer(typeof(CustomEntry), typeof(CustomEntryRenderer))]
-namespace XamarinUI.Droid.Custom
+namespace Password_Reset_Flow.Droid.Custom
 {
     public class CustomEntryRenderer : EntryRenderer
     {

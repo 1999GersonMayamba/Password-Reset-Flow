@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace XamarinUI.iOS
+namespace Password_Reset_Flow.iOS
 {
     public class Application
     {

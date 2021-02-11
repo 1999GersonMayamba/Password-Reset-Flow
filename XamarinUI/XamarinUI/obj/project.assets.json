@@ -637,9 +637,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\XamarinUI.csproj",
-      "projectName": "XamarinUI",
-      "projectPath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\XamarinUI.csproj",
+      "projectUniqueName": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\Password-Reset-Flow.csproj",
+      "projectName": "Password-Reset-Flow",
+      "projectPath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\Password-Reset-Flow.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\obj\\",
       "projectStyle": "PackageReference",

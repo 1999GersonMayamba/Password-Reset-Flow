@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xawRTiuntOtZtOdo2RR5tZBNAFWvRrTATjdczRBvPGa/eVbZVY3xwi4YQgiHXD9Wr92jXMmxv7G18Os90IGWJA==",
+  "dgSpecHash": "tObXJEkF82mHvoCGaeOmVSSJRZsUvkbZKCVxf7ESLA/rveHafmnj7Bv9vI1rI3tN+IOaqb4G6orP9UVQgMOFVA==",
   "success": true,
-  "projectFilePath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\XamarinUI.csproj",
+  "projectFilePath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI\\Password-Reset-Flow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinUI.VIEW.CheckEmailView.xaml", "VIEW/CheckEmailView.xaml", typeof(global::XamarinUI.VIEW.CheckEmailView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Password-Reset-Flow.VIEW.CheckEmailView.xaml", "VIEW/CheckEmailView.xaml", typeof(global::Password_Reset_Flow.VIEW.CheckEmailView))]
 
-namespace XamarinUI.VIEW {
+namespace Password_Reset_Flow.VIEW {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("VIEW\\CheckEmailView.xaml")]

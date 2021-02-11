@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace XamarinUI.VIEW
+namespace Password_Reset_Flow.VIEW
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ResetPasswordView : ContentPage

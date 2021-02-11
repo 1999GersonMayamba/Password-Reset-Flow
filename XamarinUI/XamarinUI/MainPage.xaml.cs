@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace XamarinUI
+namespace Password_Reset_Flow
 {
     public partial class MainPage : ContentPage
     {

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinUI.App.xaml", "App.xaml", typeof(global::XamarinUI.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Password-Reset-Flow.App.xaml", "App.xaml", typeof(global::Password_Reset_Flow.App))]
 
-namespace XamarinUI {
+namespace Password_Reset_Flow {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]

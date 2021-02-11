@@ -1,9 +1,10 @@
 package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
-		/* We need to ensure that "XamarinUI.Android.dll" comes first in this list. */
-		"XamarinUI.Android.dll",
+		/* We need to ensure that "Password-Reset-Flow.Android.dll" comes first in this list. */
+		"Password-Reset-Flow.Android.dll",
 		"FormsViewGroup.dll",
+		"Password-Reset-Flow.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Core.Runtime.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
@@ -46,7 +47,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"XamarinUI.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

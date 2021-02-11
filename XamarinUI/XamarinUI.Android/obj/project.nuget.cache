@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCmZbjCoCkFMKjF2wrG72EVGIdn/ig560uPTjRhrG5zkw74DHAW99rIPVnKkjfaz1XsKvgihebOdN447mBEMYA==",
+  "dgSpecHash": "u3aWe0h3Yvdrb7ArEoAKl26oe4Vu5MzMuwUB/ZKHdKk30MAC24zDeOm8yg5fKwMIigkS6/oyypc8iy7plKEGQg==",
   "success": true,
-  "projectFilePath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI.Android\\XamarinUI.Android.csproj",
+  "projectFilePath": "C:\\Projectos Visual Studio 2019\\XamarinUI\\XamarinUI\\XamarinUI.Android\\Password-Reset-Flow.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio\\.nuget\\packages\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Users\\fabio\\.nuget\\packages\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

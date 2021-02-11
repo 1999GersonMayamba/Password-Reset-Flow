@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 
-namespace XamarinUI.REDENRS
+namespace Password_Reset_Flow.REDENRS
 {
     public  class CustomEntry : Entry
     {

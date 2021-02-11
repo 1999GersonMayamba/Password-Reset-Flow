@@ -8,21 +8,21 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinUI.VIEW.ResetPasswordView.xaml", "VIEW/ResetPasswordView.xaml", typeof(global::XamarinUI.VIEW.ResetPasswordView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Password-Reset-Flow.VIEW.ResetPasswordView.xaml", "VIEW/ResetPasswordView.xaml", typeof(global::Password_Reset_Flow.VIEW.ResetPasswordView))]
 
-namespace XamarinUI.VIEW {
+namespace Password_Reset_Flow.VIEW {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("VIEW\\ResetPasswordView.xaml")]
     public partial class ResetPasswordView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::XamarinUI.REDENRS.CustomEntry txtUserId;
+        private global::Password_Reset_Flow.REDENRS.CustomEntry txtUserId;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ResetPasswordView));
-            txtUserId = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::XamarinUI.REDENRS.CustomEntry>(this, "txtUserId");
+            txtUserId = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Password_Reset_Flow.REDENRS.CustomEntry>(this, "txtUserId");
         }
     }
 }

@@ -1,9 +1,9 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using XamarinUI.VIEW;
+using Password_Reset_Flow.VIEW;
 
-namespace XamarinUI
+namespace Password_Reset_Flow
 {
     public partial class App : Application
     {

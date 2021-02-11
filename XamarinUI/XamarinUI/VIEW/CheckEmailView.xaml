@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="XamarinUI.VIEW.CheckEmailView"
-             xmlns:local="clr-namespace:XamarinUI.VIEWMODEL"
+             x:Class="Password_Reset_Flow.VIEW.CheckEmailView"
+             xmlns:local="clr-namespace:Password_Reset_Flow.VIEWMODEL"
              BackgroundColor="White">
 
     <ContentPage.BindingContext>

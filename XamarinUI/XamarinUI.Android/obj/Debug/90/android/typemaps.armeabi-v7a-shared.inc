@@ -28586,7 +28586,7 @@
 	.section	.rodata.java_type_name.4764,"aMS",%progbits,1
 	.type	.L.java_type_name.4764, %object
 .L.java_type_name.4764:
-	.asciz	"crc6455f12ed72d453f1c/CustomEntryRenderer"
+	.asciz	"crc6462d49c17cba83ee4/CustomEntryRenderer"
 	.size	.L.java_type_name.4764, 42
 
 	.section	.rodata.java_type_name.4765,"aMS",%progbits,1
@@ -28796,20 +28796,20 @@
 	.section	.rodata.java_type_name.4799,"aMS",%progbits,1
 	.type	.L.java_type_name.4799, %object
 .L.java_type_name.4799:
-	.asciz	"crc64a596527ed3c32ae1/MainActivity"
-	.size	.L.java_type_name.4799, 35
+	.asciz	"crc64a98abb514ffad9f1/CustomTabsServiceConnectionImpl"
+	.size	.L.java_type_name.4799, 54
 
 	.section	.rodata.java_type_name.4800,"aMS",%progbits,1
 	.type	.L.java_type_name.4800, %object
 .L.java_type_name.4800:
-	.asciz	"crc64a98abb514ffad9f1/CustomTabsServiceConnectionImpl"
-	.size	.L.java_type_name.4800, 54
+	.asciz	"crc64a98abb514ffad9f1/KeepAliveService"
+	.size	.L.java_type_name.4800, 39
 
 	.section	.rodata.java_type_name.4801,"aMS",%progbits,1
 	.type	.L.java_type_name.4801, %object
 .L.java_type_name.4801:
-	.asciz	"crc64a98abb514ffad9f1/KeepAliveService"
-	.size	.L.java_type_name.4801, 39
+	.asciz	"crc64bd244b852edb322a/MainActivity"
+	.size	.L.java_type_name.4801, 35
 
 	.section	.rodata.java_type_name.4802,"aMS",%progbits,1
 	.type	.L.java_type_name.4802, %object
@@ -78060,1146 +78060,1146 @@
 	.section	.rodata.managed_type_name.6971,"aMS",%progbits,1
 	.type	.L.managed_type_name.6971, %object
 .L.managed_type_name.6971:
-	.asciz	"Xamarin.Android.Net.OldAndroidSSLSocketFactory, Mono.Android"
-	.size	.L.managed_type_name.6971, 61
+	.asciz	"Password_Reset_Flow.Droid.Custom.CustomEntryRenderer, Password-Reset-Flow.Android"
+	.size	.L.managed_type_name.6971, 82
 	.section	.rodata.managed_type_name.6972,"aMS",%progbits,1
 	.type	.L.managed_type_name.6972, %object
 .L.managed_type_name.6972:
-	.asciz	"Xamarin.Essentials.AccelerometerListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6972, 61
+	.asciz	"Password_Reset_Flow.Droid.MainActivity, Password-Reset-Flow.Android"
+	.size	.L.managed_type_name.6972, 68
 	.section	.rodata.managed_type_name.6973,"aMS",%progbits,1
 	.type	.L.managed_type_name.6973, %object
 .L.managed_type_name.6973:
-	.asciz	"Xamarin.Essentials.ActivityLifecycleContextListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6973, 72
+	.asciz	"Xamarin.Android.Net.OldAndroidSSLSocketFactory, Mono.Android"
+	.size	.L.managed_type_name.6973, 61
 	.section	.rodata.managed_type_name.6974,"aMS",%progbits,1
 	.type	.L.managed_type_name.6974, %object
 .L.managed_type_name.6974:
-	.asciz	"Xamarin.Essentials.BarometerListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6974, 57
+	.asciz	"Xamarin.Essentials.AccelerometerListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6974, 61
 	.section	.rodata.managed_type_name.6975,"aMS",%progbits,1
 	.type	.L.managed_type_name.6975, %object
 .L.managed_type_name.6975:
-	.asciz	"Xamarin.Essentials.BatteryBroadcastReceiver, Xamarin.Essentials"
-	.size	.L.managed_type_name.6975, 64
+	.asciz	"Xamarin.Essentials.ActivityLifecycleContextListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6975, 72
 	.section	.rodata.managed_type_name.6976,"aMS",%progbits,1
 	.type	.L.managed_type_name.6976, %object
 .L.managed_type_name.6976:
-	.asciz	"Xamarin.Essentials.ClipboardChangeListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6976, 63
+	.asciz	"Xamarin.Essentials.BarometerListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6976, 57
 	.section	.rodata.managed_type_name.6977,"aMS",%progbits,1
 	.type	.L.managed_type_name.6977, %object
 .L.managed_type_name.6977:
-	.asciz	"Xamarin.Essentials.ConnectivityBroadcastReceiver, Xamarin.Essentials"
-	.size	.L.managed_type_name.6977, 69
+	.asciz	"Xamarin.Essentials.BatteryBroadcastReceiver, Xamarin.Essentials"
+	.size	.L.managed_type_name.6977, 64
 	.section	.rodata.managed_type_name.6978,"aMS",%progbits,1
 	.type	.L.managed_type_name.6978, %object
 .L.managed_type_name.6978:
-	.asciz	"Xamarin.Essentials.EnergySaverBroadcastReceiver, Xamarin.Essentials"
-	.size	.L.managed_type_name.6978, 68
+	.asciz	"Xamarin.Essentials.ClipboardChangeListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6978, 63
 	.section	.rodata.managed_type_name.6979,"aMS",%progbits,1
 	.type	.L.managed_type_name.6979, %object
 .L.managed_type_name.6979:
-	.asciz	"Xamarin.Essentials.FileProvider, Xamarin.Essentials"
-	.size	.L.managed_type_name.6979, 52
+	.asciz	"Xamarin.Essentials.ConnectivityBroadcastReceiver, Xamarin.Essentials"
+	.size	.L.managed_type_name.6979, 69
 	.section	.rodata.managed_type_name.6980,"aMS",%progbits,1
 	.type	.L.managed_type_name.6980, %object
 .L.managed_type_name.6980:
-	.asciz	"Xamarin.Essentials.GyroscopeListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6980, 57
+	.asciz	"Xamarin.Essentials.EnergySaverBroadcastReceiver, Xamarin.Essentials"
+	.size	.L.managed_type_name.6980, 68
 	.section	.rodata.managed_type_name.6981,"aMS",%progbits,1
 	.type	.L.managed_type_name.6981, %object
 .L.managed_type_name.6981:
-	.asciz	"Xamarin.Essentials.Listener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6981, 48
+	.asciz	"Xamarin.Essentials.FileProvider, Xamarin.Essentials"
+	.size	.L.managed_type_name.6981, 52
 	.section	.rodata.managed_type_name.6982,"aMS",%progbits,1
 	.type	.L.managed_type_name.6982, %object
 .L.managed_type_name.6982:
-	.asciz	"Xamarin.Essentials.MagnetometerListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6982, 60
+	.asciz	"Xamarin.Essentials.GyroscopeListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6982, 57
 	.section	.rodata.managed_type_name.6983,"aMS",%progbits,1
 	.type	.L.managed_type_name.6983, %object
 .L.managed_type_name.6983:
-	.asciz	"Xamarin.Essentials.OrientationSensorListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6983, 65
+	.asciz	"Xamarin.Essentials.Listener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6983, 48
 	.section	.rodata.managed_type_name.6984,"aMS",%progbits,1
 	.type	.L.managed_type_name.6984, %object
 .L.managed_type_name.6984:
-	.asciz	"Xamarin.Essentials.SensorListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6984, 54
+	.asciz	"Xamarin.Essentials.MagnetometerListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6984, 60
 	.section	.rodata.managed_type_name.6985,"aMS",%progbits,1
 	.type	.L.managed_type_name.6985, %object
 .L.managed_type_name.6985:
-	.asciz	"Xamarin.Essentials.SingleLocationListener, Xamarin.Essentials"
-	.size	.L.managed_type_name.6985, 62
+	.asciz	"Xamarin.Essentials.OrientationSensorListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6985, 65
 	.section	.rodata.managed_type_name.6986,"aMS",%progbits,1
 	.type	.L.managed_type_name.6986, %object
 .L.managed_type_name.6986:
-	.asciz	"Xamarin.Essentials.TextToSpeechImplementation, Xamarin.Essentials"
-	.size	.L.managed_type_name.6986, 66
+	.asciz	"Xamarin.Essentials.SensorListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6986, 54
 	.section	.rodata.managed_type_name.6987,"aMS",%progbits,1
 	.type	.L.managed_type_name.6987, %object
 .L.managed_type_name.6987:
-	.asciz	"Xamarin.Essentials.WebAuthenticatorCallbackActivity, Xamarin.Essentials"
-	.size	.L.managed_type_name.6987, 72
+	.asciz	"Xamarin.Essentials.SingleLocationListener, Xamarin.Essentials"
+	.size	.L.managed_type_name.6987, 62
 	.section	.rodata.managed_type_name.6988,"aMS",%progbits,1
 	.type	.L.managed_type_name.6988, %object
 .L.managed_type_name.6988:
-	.asciz	"Xamarin.Forms.Platform.Android.AHorizontalScrollView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6988, 85
+	.asciz	"Xamarin.Essentials.TextToSpeechImplementation, Xamarin.Essentials"
+	.size	.L.managed_type_name.6988, 66
 	.section	.rodata.managed_type_name.6989,"aMS",%progbits,1
 	.type	.L.managed_type_name.6989, %object
 .L.managed_type_name.6989:
-	.asciz	"Xamarin.Forms.Platform.Android.ActionSheetRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6989, 83
+	.asciz	"Xamarin.Essentials.WebAuthenticatorCallbackActivity, Xamarin.Essentials"
+	.size	.L.managed_type_name.6989, 72
 	.section	.rodata.managed_type_name.6990,"aMS",%progbits,1
 	.type	.L.managed_type_name.6990, %object
 .L.managed_type_name.6990:
-	.asciz	"Xamarin.Forms.Platform.Android.ActivityIndicatorRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6990, 89
+	.asciz	"Xamarin.Forms.Platform.Android.AHorizontalScrollView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6990, 85
 	.section	.rodata.managed_type_name.6991,"aMS",%progbits,1
 	.type	.L.managed_type_name.6991, %object
 .L.managed_type_name.6991:
-	.asciz	"Xamarin.Forms.Platform.Android.AndroidActivity, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6991, 79
+	.asciz	"Xamarin.Forms.Platform.Android.ActionSheetRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6991, 83
 	.section	.rodata.managed_type_name.6992,"aMS",%progbits,1
 	.type	.L.managed_type_name.6992, %object
 .L.managed_type_name.6992:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.ButtonRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6992, 88
+	.asciz	"Xamarin.Forms.Platform.Android.ActivityIndicatorRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6992, 89
 	.section	.rodata.managed_type_name.6993,"aMS",%progbits,1
 	.type	.L.managed_type_name.6993, %object
 .L.managed_type_name.6993:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.CarouselPageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6993, 94
+	.asciz	"Xamarin.Forms.Platform.Android.AndroidActivity, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6993, 79
 	.section	.rodata.managed_type_name.6994,"aMS",%progbits,1
 	.type	.L.managed_type_name.6994, %object
 .L.managed_type_name.6994:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FormsFragmentPagerAdapter`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6994, 101
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.ButtonRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6994, 88
 	.section	.rodata.managed_type_name.6995,"aMS",%progbits,1
 	.type	.L.managed_type_name.6995, %object
 .L.managed_type_name.6995:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FormsViewPager, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6995, 88
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.CarouselPageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6995, 94
 	.section	.rodata.managed_type_name.6996,"aMS",%progbits,1
 	.type	.L.managed_type_name.6996, %object
 .L.managed_type_name.6996:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FragmentContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6996, 91
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FormsFragmentPagerAdapter`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6996, 101
 	.section	.rodata.managed_type_name.6997,"aMS",%progbits,1
 	.type	.L.managed_type_name.6997, %object
 .L.managed_type_name.6997:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FrameRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6997, 87
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FormsViewPager, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6997, 88
 	.section	.rodata.managed_type_name.6998,"aMS",%progbits,1
 	.type	.L.managed_type_name.6998, %object
 .L.managed_type_name.6998:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.MasterDetailContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6998, 95
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FragmentContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6998, 91
 	.section	.rodata.managed_type_name.6999,"aMS",%progbits,1
 	.type	.L.managed_type_name.6999, %object
 .L.managed_type_name.6999:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.MasterDetailPageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.6999, 98
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.FrameRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.6999, 87
 	.section	.rodata.managed_type_name.7000,"aMS",%progbits,1
 	.type	.L.managed_type_name.7000, %object
 .L.managed_type_name.7000:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer+ClickListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7000, 110
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.MasterDetailContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7000, 95
 	.section	.rodata.managed_type_name.7001,"aMS",%progbits,1
 	.type	.L.managed_type_name.7001, %object
 .L.managed_type_name.7001:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer+Container, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7001, 106
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.MasterDetailPageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7001, 98
 	.section	.rodata.managed_type_name.7002,"aMS",%progbits,1
 	.type	.L.managed_type_name.7002, %object
 .L.managed_type_name.7002:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer+DrawerMultiplexedListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7002, 122
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer+ClickListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7002, 110
 	.section	.rodata.managed_type_name.7003,"aMS",%progbits,1
 	.type	.L.managed_type_name.7003, %object
 .L.managed_type_name.7003:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7003, 96
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer+Container, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7003, 106
 	.section	.rodata.managed_type_name.7004,"aMS",%progbits,1
 	.type	.L.managed_type_name.7004, %object
 .L.managed_type_name.7004:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.PickerRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7004, 88
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer+DrawerMultiplexedListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7004, 122
 	.section	.rodata.managed_type_name.7005,"aMS",%progbits,1
 	.type	.L.managed_type_name.7005, %object
 .L.managed_type_name.7005:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.PickerRendererBase`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7005, 94
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.NavigationPageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7005, 96
 	.section	.rodata.managed_type_name.7006,"aMS",%progbits,1
 	.type	.L.managed_type_name.7006, %object
 .L.managed_type_name.7006:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.Platform+ModalContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7006, 97
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.PickerRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7006, 88
 	.section	.rodata.managed_type_name.7007,"aMS",%progbits,1
 	.type	.L.managed_type_name.7007, %object
 .L.managed_type_name.7007:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.ShellFragmentContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7007, 96
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.PickerRendererBase`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7007, 94
 	.section	.rodata.managed_type_name.7008,"aMS",%progbits,1
 	.type	.L.managed_type_name.7008, %object
 .L.managed_type_name.7008:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.SwitchRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7008, 88
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.Platform+ModalContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7008, 97
 	.section	.rodata.managed_type_name.7009,"aMS",%progbits,1
 	.type	.L.managed_type_name.7009, %object
 .L.managed_type_name.7009:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.TabbedPageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7009, 92
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.ShellFragmentContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7009, 96
 	.section	.rodata.managed_type_name.7010,"aMS",%progbits,1
 	.type	.L.managed_type_name.7010, %object
 .L.managed_type_name.7010:
-	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.ViewRenderer`2, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.SwitchRenderer, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7010, 88
 	.section	.rodata.managed_type_name.7011,"aMS",%progbits,1
 	.type	.L.managed_type_name.7011, %object
 .L.managed_type_name.7011:
-	.asciz	"Xamarin.Forms.Platform.Android.BaseCellView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7011, 76
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.TabbedPageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7011, 92
 	.section	.rodata.managed_type_name.7012,"aMS",%progbits,1
 	.type	.L.managed_type_name.7012, %object
 .L.managed_type_name.7012:
-	.asciz	"Xamarin.Forms.Platform.Android.BorderDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7012, 78
+	.asciz	"Xamarin.Forms.Platform.Android.AppCompat.ViewRenderer`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7012, 88
 	.section	.rodata.managed_type_name.7013,"aMS",%progbits,1
 	.type	.L.managed_type_name.7013, %object
 .L.managed_type_name.7013:
-	.asciz	"Xamarin.Forms.Platform.Android.BoxRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7013, 75
+	.asciz	"Xamarin.Forms.Platform.Android.BaseCellView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7013, 76
 	.section	.rodata.managed_type_name.7014,"aMS",%progbits,1
 	.type	.L.managed_type_name.7014, %object
 .L.managed_type_name.7014:
-	.asciz	"Xamarin.Forms.Platform.Android.ButtonRenderer+ButtonClickListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7014, 98
+	.asciz	"Xamarin.Forms.Platform.Android.BorderDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7014, 78
 	.section	.rodata.managed_type_name.7015,"aMS",%progbits,1
 	.type	.L.managed_type_name.7015, %object
 .L.managed_type_name.7015:
-	.asciz	"Xamarin.Forms.Platform.Android.ButtonRenderer+ButtonTouchListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7015, 98
+	.asciz	"Xamarin.Forms.Platform.Android.BoxRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7015, 75
 	.section	.rodata.managed_type_name.7016,"aMS",%progbits,1
 	.type	.L.managed_type_name.7016, %object
 .L.managed_type_name.7016:
-	.asciz	"Xamarin.Forms.Platform.Android.ButtonRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7016, 78
+	.asciz	"Xamarin.Forms.Platform.Android.ButtonRenderer+ButtonClickListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7016, 98
 	.section	.rodata.managed_type_name.7017,"aMS",%progbits,1
 	.type	.L.managed_type_name.7017, %object
 .L.managed_type_name.7017:
-	.asciz	"Xamarin.Forms.Platform.Android.CarouselPageAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7017, 83
+	.asciz	"Xamarin.Forms.Platform.Android.ButtonRenderer+ButtonTouchListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7017, 98
 	.section	.rodata.managed_type_name.7018,"aMS",%progbits,1
 	.type	.L.managed_type_name.7018, %object
 .L.managed_type_name.7018:
-	.asciz	"Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7018, 84
+	.asciz	"Xamarin.Forms.Platform.Android.ButtonRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7018, 78
 	.section	.rodata.managed_type_name.7019,"aMS",%progbits,1
 	.type	.L.managed_type_name.7019, %object
 .L.managed_type_name.7019:
-	.asciz	"Xamarin.Forms.Platform.Android.CarouselSpacingItemDecoration, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7019, 93
+	.asciz	"Xamarin.Forms.Platform.Android.CarouselPageAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7019, 83
 	.section	.rodata.managed_type_name.7020,"aMS",%progbits,1
 	.type	.L.managed_type_name.7020, %object
 .L.managed_type_name.7020:
-	.asciz	"Xamarin.Forms.Platform.Android.CarouselViewRenderer+CarouselViewOnScrollListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7020, 113
+	.asciz	"Xamarin.Forms.Platform.Android.CarouselPageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7020, 84
 	.section	.rodata.managed_type_name.7021,"aMS",%progbits,1
 	.type	.L.managed_type_name.7021, %object
 .L.managed_type_name.7021:
-	.asciz	"Xamarin.Forms.Platform.Android.CarouselViewRenderer+CarouselViewwOnGlobalLayoutListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7021, 120
+	.asciz	"Xamarin.Forms.Platform.Android.CarouselSpacingItemDecoration, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7021, 93
 	.section	.rodata.managed_type_name.7022,"aMS",%progbits,1
 	.type	.L.managed_type_name.7022, %object
 .L.managed_type_name.7022:
-	.asciz	"Xamarin.Forms.Platform.Android.CarouselViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7022, 84
+	.asciz	"Xamarin.Forms.Platform.Android.CarouselViewRenderer+CarouselViewOnScrollListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7022, 113
 	.section	.rodata.managed_type_name.7023,"aMS",%progbits,1
 	.type	.L.managed_type_name.7023, %object
 .L.managed_type_name.7023:
-	.asciz	"Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7023, 75
+	.asciz	"Xamarin.Forms.Platform.Android.CarouselViewRenderer+CarouselViewwOnGlobalLayoutListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7023, 120
 	.section	.rodata.managed_type_name.7024,"aMS",%progbits,1
 	.type	.L.managed_type_name.7024, %object
 .L.managed_type_name.7024:
-	.asciz	"Xamarin.Forms.Platform.Android.CellRenderer+RendererHolder, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7024, 91
+	.asciz	"Xamarin.Forms.Platform.Android.CarouselViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7024, 84
 	.section	.rodata.managed_type_name.7025,"aMS",%progbits,1
 	.type	.L.managed_type_name.7025, %object
 .L.managed_type_name.7025:
-	.asciz	"Xamarin.Forms.Platform.Android.CenterSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7025, 80
+	.asciz	"Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7025, 75
 	.section	.rodata.managed_type_name.7026,"aMS",%progbits,1
 	.type	.L.managed_type_name.7026, %object
 .L.managed_type_name.7026:
-	.asciz	"Xamarin.Forms.Platform.Android.CheckBoxDesignerRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7026, 88
+	.asciz	"Xamarin.Forms.Platform.Android.CellRenderer+RendererHolder, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7026, 91
 	.section	.rodata.managed_type_name.7027,"aMS",%progbits,1
 	.type	.L.managed_type_name.7027, %object
 .L.managed_type_name.7027:
-	.asciz	"Xamarin.Forms.Platform.Android.CheckBoxRenderer, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.CenterSnapHelper, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7027, 80
 	.section	.rodata.managed_type_name.7028,"aMS",%progbits,1
 	.type	.L.managed_type_name.7028, %object
 .L.managed_type_name.7028:
-	.asciz	"Xamarin.Forms.Platform.Android.CheckBoxRendererBase, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7028, 84
+	.asciz	"Xamarin.Forms.Platform.Android.CheckBoxDesignerRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7028, 88
 	.section	.rodata.managed_type_name.7029,"aMS",%progbits,1
 	.type	.L.managed_type_name.7029, %object
 .L.managed_type_name.7029:
-	.asciz	"Xamarin.Forms.Platform.Android.CircularProgress, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.CheckBoxRenderer, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7029, 80
 	.section	.rodata.managed_type_name.7030,"aMS",%progbits,1
 	.type	.L.managed_type_name.7030, %object
 .L.managed_type_name.7030:
-	.asciz	"Xamarin.Forms.Platform.Android.CollectionView.RecyclerViewScrollListener`2, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7030, 107
+	.asciz	"Xamarin.Forms.Platform.Android.CheckBoxRendererBase, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7030, 84
 	.section	.rodata.managed_type_name.7031,"aMS",%progbits,1
 	.type	.L.managed_type_name.7031, %object
 .L.managed_type_name.7031:
-	.asciz	"Xamarin.Forms.Platform.Android.CollectionViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7031, 86
+	.asciz	"Xamarin.Forms.Platform.Android.CircularProgress, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7031, 80
 	.section	.rodata.managed_type_name.7032,"aMS",%progbits,1
 	.type	.L.managed_type_name.7032, %object
 .L.managed_type_name.7032:
-	.asciz	"Xamarin.Forms.Platform.Android.ColorChangeRevealDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7032, 89
+	.asciz	"Xamarin.Forms.Platform.Android.CollectionView.RecyclerViewScrollListener`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7032, 107
 	.section	.rodata.managed_type_name.7033,"aMS",%progbits,1
 	.type	.L.managed_type_name.7033, %object
 .L.managed_type_name.7033:
-	.asciz	"Xamarin.Forms.Platform.Android.ConditionalFocusLayout, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.CollectionViewRenderer, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7033, 86
 	.section	.rodata.managed_type_name.7034,"aMS",%progbits,1
 	.type	.L.managed_type_name.7034, %object
 .L.managed_type_name.7034:
-	.asciz	"Xamarin.Forms.Platform.Android.ContainerView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7034, 77
+	.asciz	"Xamarin.Forms.Platform.Android.ColorChangeRevealDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7034, 89
 	.section	.rodata.managed_type_name.7035,"aMS",%progbits,1
 	.type	.L.managed_type_name.7035, %object
 .L.managed_type_name.7035:
-	.asciz	"Xamarin.Forms.Platform.Android.CustomFrameLayout, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7035, 81
+	.asciz	"Xamarin.Forms.Platform.Android.ConditionalFocusLayout, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7035, 86
 	.section	.rodata.managed_type_name.7036,"aMS",%progbits,1
 	.type	.L.managed_type_name.7036, %object
 .L.managed_type_name.7036:
-	.asciz	"Xamarin.Forms.Platform.Android.DataChangeObserver, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7036, 82
+	.asciz	"Xamarin.Forms.Platform.Android.ContainerView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7036, 77
 	.section	.rodata.managed_type_name.7037,"aMS",%progbits,1
 	.type	.L.managed_type_name.7037, %object
 .L.managed_type_name.7037:
-	.asciz	"Xamarin.Forms.Platform.Android.DatePickerRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7037, 82
+	.asciz	"Xamarin.Forms.Platform.Android.CustomFrameLayout, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7037, 81
 	.section	.rodata.managed_type_name.7038,"aMS",%progbits,1
 	.type	.L.managed_type_name.7038, %object
 .L.managed_type_name.7038:
-	.asciz	"Xamarin.Forms.Platform.Android.DatePickerRendererBase`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7038, 88
+	.asciz	"Xamarin.Forms.Platform.Android.DataChangeObserver, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7038, 82
 	.section	.rodata.managed_type_name.7039,"aMS",%progbits,1
 	.type	.L.managed_type_name.7039, %object
 .L.managed_type_name.7039:
-	.asciz	"Xamarin.Forms.Platform.Android.DragAndDropGestureHandler, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7039, 89
+	.asciz	"Xamarin.Forms.Platform.Android.DatePickerRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7039, 82
 	.section	.rodata.managed_type_name.7040,"aMS",%progbits,1
 	.type	.L.managed_type_name.7040, %object
 .L.managed_type_name.7040:
-	.asciz	"Xamarin.Forms.Platform.Android.EdgeSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7040, 78
+	.asciz	"Xamarin.Forms.Platform.Android.DatePickerRendererBase`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7040, 88
 	.section	.rodata.managed_type_name.7041,"aMS",%progbits,1
 	.type	.L.managed_type_name.7041, %object
 .L.managed_type_name.7041:
-	.asciz	"Xamarin.Forms.Platform.Android.EditorEditText, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7041, 78
+	.asciz	"Xamarin.Forms.Platform.Android.DragAndDropGestureHandler, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7041, 89
 	.section	.rodata.managed_type_name.7042,"aMS",%progbits,1
 	.type	.L.managed_type_name.7042, %object
 .L.managed_type_name.7042:
-	.asciz	"Xamarin.Forms.Platform.Android.EditorRenderer, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.EdgeSnapHelper, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7042, 78
 	.section	.rodata.managed_type_name.7043,"aMS",%progbits,1
 	.type	.L.managed_type_name.7043, %object
 .L.managed_type_name.7043:
-	.asciz	"Xamarin.Forms.Platform.Android.EditorRendererBase`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7043, 84
+	.asciz	"Xamarin.Forms.Platform.Android.EditorEditText, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7043, 78
 	.section	.rodata.managed_type_name.7044,"aMS",%progbits,1
 	.type	.L.managed_type_name.7044, %object
 .L.managed_type_name.7044:
-	.asciz	"Xamarin.Forms.Platform.Android.EllipseRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7044, 79
+	.asciz	"Xamarin.Forms.Platform.Android.EditorRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7044, 78
 	.section	.rodata.managed_type_name.7045,"aMS",%progbits,1
 	.type	.L.managed_type_name.7045, %object
 .L.managed_type_name.7045:
-	.asciz	"Xamarin.Forms.Platform.Android.EllipseView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7045, 75
+	.asciz	"Xamarin.Forms.Platform.Android.EditorRendererBase`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7045, 84
 	.section	.rodata.managed_type_name.7046,"aMS",%progbits,1
 	.type	.L.managed_type_name.7046, %object
 .L.managed_type_name.7046:
-	.asciz	"Xamarin.Forms.Platform.Android.EmptyViewAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7046, 80
+	.asciz	"Xamarin.Forms.Platform.Android.EllipseRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7046, 79
 	.section	.rodata.managed_type_name.7047,"aMS",%progbits,1
 	.type	.L.managed_type_name.7047, %object
 .L.managed_type_name.7047:
-	.asciz	"Xamarin.Forms.Platform.Android.EndSingleSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7047, 83
+	.asciz	"Xamarin.Forms.Platform.Android.EllipseView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7047, 75
 	.section	.rodata.managed_type_name.7048,"aMS",%progbits,1
 	.type	.L.managed_type_name.7048, %object
 .L.managed_type_name.7048:
-	.asciz	"Xamarin.Forms.Platform.Android.EndSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7048, 77
+	.asciz	"Xamarin.Forms.Platform.Android.EmptyViewAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7048, 80
 	.section	.rodata.managed_type_name.7049,"aMS",%progbits,1
 	.type	.L.managed_type_name.7049, %object
 .L.managed_type_name.7049:
-	.asciz	"Xamarin.Forms.Platform.Android.EntryAccessibilityDelegate, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7049, 90
+	.asciz	"Xamarin.Forms.Platform.Android.EndSingleSnapHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7049, 83
 	.section	.rodata.managed_type_name.7050,"aMS",%progbits,1
 	.type	.L.managed_type_name.7050, %object
 .L.managed_type_name.7050:
-	.asciz	"Xamarin.Forms.Platform.Android.EntryCellEditText, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7050, 81
+	.asciz	"Xamarin.Forms.Platform.Android.EndSnapHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7050, 77
 	.section	.rodata.managed_type_name.7051,"aMS",%progbits,1
 	.type	.L.managed_type_name.7051, %object
 .L.managed_type_name.7051:
-	.asciz	"Xamarin.Forms.Platform.Android.EntryCellView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7051, 77
+	.asciz	"Xamarin.Forms.Platform.Android.EntryAccessibilityDelegate, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7051, 90
 	.section	.rodata.managed_type_name.7052,"aMS",%progbits,1
 	.type	.L.managed_type_name.7052, %object
 .L.managed_type_name.7052:
-	.asciz	"Xamarin.Forms.Platform.Android.EntryEditText, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7052, 77
+	.asciz	"Xamarin.Forms.Platform.Android.EntryCellEditText, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7052, 81
 	.section	.rodata.managed_type_name.7053,"aMS",%progbits,1
 	.type	.L.managed_type_name.7053, %object
 .L.managed_type_name.7053:
-	.asciz	"Xamarin.Forms.Platform.Android.EntryRenderer, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.EntryCellView, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7053, 77
 	.section	.rodata.managed_type_name.7054,"aMS",%progbits,1
 	.type	.L.managed_type_name.7054, %object
 .L.managed_type_name.7054:
-	.asciz	"Xamarin.Forms.Platform.Android.EntryRendererBase`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7054, 83
+	.asciz	"Xamarin.Forms.Platform.Android.EntryEditText, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7054, 77
 	.section	.rodata.managed_type_name.7055,"aMS",%progbits,1
 	.type	.L.managed_type_name.7055, %object
 .L.managed_type_name.7055:
-	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.ButtonRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7055, 92
+	.asciz	"Xamarin.Forms.Platform.Android.EntryRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7055, 77
 	.section	.rodata.managed_type_name.7056,"aMS",%progbits,1
 	.type	.L.managed_type_name.7056, %object
 .L.managed_type_name.7056:
-	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.FrameRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7056, 91
+	.asciz	"Xamarin.Forms.Platform.Android.EntryRendererBase`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7056, 83
 	.section	.rodata.managed_type_name.7057,"aMS",%progbits,1
 	.type	.L.managed_type_name.7057, %object
 .L.managed_type_name.7057:
-	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.ImageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7057, 91
+	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.ButtonRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7057, 92
 	.section	.rodata.managed_type_name.7058,"aMS",%progbits,1
 	.type	.L.managed_type_name.7058, %object
 .L.managed_type_name.7058:
-	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.LabelRenderer, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.FrameRenderer, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7058, 91
 	.section	.rodata.managed_type_name.7059,"aMS",%progbits,1
 	.type	.L.managed_type_name.7059, %object
 .L.managed_type_name.7059:
-	.asciz	"Xamarin.Forms.Platform.Android.FormattedStringExtensions+FontSpan, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7059, 98
+	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.ImageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7059, 91
 	.section	.rodata.managed_type_name.7060,"aMS",%progbits,1
 	.type	.L.managed_type_name.7060, %object
 .L.managed_type_name.7060:
-	.asciz	"Xamarin.Forms.Platform.Android.FormattedStringExtensions+LineHeightSpan, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7060, 104
+	.asciz	"Xamarin.Forms.Platform.Android.FastRenderers.LabelRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7060, 91
 	.section	.rodata.managed_type_name.7061,"aMS",%progbits,1
 	.type	.L.managed_type_name.7061, %object
 .L.managed_type_name.7061:
-	.asciz	"Xamarin.Forms.Platform.Android.FormattedStringExtensions+TextDecorationSpan, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7061, 108
+	.asciz	"Xamarin.Forms.Platform.Android.FormattedStringExtensions+FontSpan, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7061, 98
 	.section	.rodata.managed_type_name.7062,"aMS",%progbits,1
 	.type	.L.managed_type_name.7062, %object
 .L.managed_type_name.7062:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsAnimationDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7062, 86
+	.asciz	"Xamarin.Forms.Platform.Android.FormattedStringExtensions+LineHeightSpan, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7062, 104
 	.section	.rodata.managed_type_name.7063,"aMS",%progbits,1
 	.type	.L.managed_type_name.7063, %object
 .L.managed_type_name.7063:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsAppCompatActivity, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7063, 86
+	.asciz	"Xamarin.Forms.Platform.Android.FormattedStringExtensions+TextDecorationSpan, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7063, 108
 	.section	.rodata.managed_type_name.7064,"aMS",%progbits,1
 	.type	.L.managed_type_name.7064, %object
 .L.managed_type_name.7064:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsApplicationActivity, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7064, 88
+	.asciz	"Xamarin.Forms.Platform.Android.FormsAnimationDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7064, 86
 	.section	.rodata.managed_type_name.7065,"aMS",%progbits,1
 	.type	.L.managed_type_name.7065, %object
 .L.managed_type_name.7065:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsEditText, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7065, 77
+	.asciz	"Xamarin.Forms.Platform.Android.FormsAppCompatActivity, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7065, 86
 	.section	.rodata.managed_type_name.7066,"aMS",%progbits,1
 	.type	.L.managed_type_name.7066, %object
 .L.managed_type_name.7066:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsEditTextBase, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7066, 81
+	.asciz	"Xamarin.Forms.Platform.Android.FormsApplicationActivity, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7066, 88
 	.section	.rodata.managed_type_name.7067,"aMS",%progbits,1
 	.type	.L.managed_type_name.7067, %object
 .L.managed_type_name.7067:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsImageView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7067, 78
+	.asciz	"Xamarin.Forms.Platform.Android.FormsEditText, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7067, 77
 	.section	.rodata.managed_type_name.7068,"aMS",%progbits,1
 	.type	.L.managed_type_name.7068, %object
 .L.managed_type_name.7068:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsSeekBar, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7068, 76
+	.asciz	"Xamarin.Forms.Platform.Android.FormsEditTextBase, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7068, 81
 	.section	.rodata.managed_type_name.7069,"aMS",%progbits,1
 	.type	.L.managed_type_name.7069, %object
 .L.managed_type_name.7069:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsTextView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7069, 77
+	.asciz	"Xamarin.Forms.Platform.Android.FormsImageView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7069, 78
 	.section	.rodata.managed_type_name.7070,"aMS",%progbits,1
 	.type	.L.managed_type_name.7070, %object
 .L.managed_type_name.7070:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsVideoView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7070, 78
+	.asciz	"Xamarin.Forms.Platform.Android.FormsSeekBar, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7070, 76
 	.section	.rodata.managed_type_name.7071,"aMS",%progbits,1
 	.type	.L.managed_type_name.7071, %object
 .L.managed_type_name.7071:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsViewGroup, FormsViewGroup"
-	.size	.L.managed_type_name.7071, 62
+	.asciz	"Xamarin.Forms.Platform.Android.FormsTextView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7071, 77
 	.section	.rodata.managed_type_name.7072,"aMS",%progbits,1
 	.type	.L.managed_type_name.7072, %object
 .L.managed_type_name.7072:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsWebChromeClient, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7072, 84
+	.asciz	"Xamarin.Forms.Platform.Android.FormsVideoView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7072, 78
 	.section	.rodata.managed_type_name.7073,"aMS",%progbits,1
 	.type	.L.managed_type_name.7073, %object
 .L.managed_type_name.7073:
-	.asciz	"Xamarin.Forms.Platform.Android.FormsWebViewClient, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7073, 82
+	.asciz	"Xamarin.Forms.Platform.Android.FormsViewGroup, FormsViewGroup"
+	.size	.L.managed_type_name.7073, 62
 	.section	.rodata.managed_type_name.7074,"aMS",%progbits,1
 	.type	.L.managed_type_name.7074, %object
 .L.managed_type_name.7074:
-	.asciz	"Xamarin.Forms.Platform.Android.FrameRenderer+FrameDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7074, 91
+	.asciz	"Xamarin.Forms.Platform.Android.FormsWebChromeClient, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7074, 84
 	.section	.rodata.managed_type_name.7075,"aMS",%progbits,1
 	.type	.L.managed_type_name.7075, %object
 .L.managed_type_name.7075:
-	.asciz	"Xamarin.Forms.Platform.Android.FrameRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7075, 77
+	.asciz	"Xamarin.Forms.Platform.Android.FormsWebViewClient, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7075, 82
 	.section	.rodata.managed_type_name.7076,"aMS",%progbits,1
 	.type	.L.managed_type_name.7076, %object
 .L.managed_type_name.7076:
-	.asciz	"Xamarin.Forms.Platform.Android.GenericAnimatorListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7076, 87
+	.asciz	"Xamarin.Forms.Platform.Android.FrameRenderer+FrameDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7076, 91
 	.section	.rodata.managed_type_name.7077,"aMS",%progbits,1
 	.type	.L.managed_type_name.7077, %object
 .L.managed_type_name.7077:
-	.asciz	"Xamarin.Forms.Platform.Android.GenericGlobalLayoutListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7077, 91
+	.asciz	"Xamarin.Forms.Platform.Android.FrameRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7077, 77
 	.section	.rodata.managed_type_name.7078,"aMS",%progbits,1
 	.type	.L.managed_type_name.7078, %object
 .L.managed_type_name.7078:
-	.asciz	"Xamarin.Forms.Platform.Android.GenericMenuClickListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7078, 88
+	.asciz	"Xamarin.Forms.Platform.Android.GenericAnimatorListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7078, 87
 	.section	.rodata.managed_type_name.7079,"aMS",%progbits,1
 	.type	.L.managed_type_name.7079, %object
 .L.managed_type_name.7079:
-	.asciz	"Xamarin.Forms.Platform.Android.GestureManager+TapAndPanGestureDetector, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7079, 103
+	.asciz	"Xamarin.Forms.Platform.Android.GenericGlobalLayoutListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7079, 91
 	.section	.rodata.managed_type_name.7080,"aMS",%progbits,1
 	.type	.L.managed_type_name.7080, %object
 .L.managed_type_name.7080:
-	.asciz	"Xamarin.Forms.Platform.Android.GradientStrokeDrawable+GradientShaderFactory, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7080, 108
+	.asciz	"Xamarin.Forms.Platform.Android.GenericMenuClickListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7080, 88
 	.section	.rodata.managed_type_name.7081,"aMS",%progbits,1
 	.type	.L.managed_type_name.7081, %object
 .L.managed_type_name.7081:
-	.asciz	"Xamarin.Forms.Platform.Android.GradientStrokeDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7081, 86
+	.asciz	"Xamarin.Forms.Platform.Android.GestureManager+TapAndPanGestureDetector, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7081, 103
 	.section	.rodata.managed_type_name.7082,"aMS",%progbits,1
 	.type	.L.managed_type_name.7082, %object
 .L.managed_type_name.7082:
-	.asciz	"Xamarin.Forms.Platform.Android.GridLayoutSpanSizeLookup, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7082, 88
+	.asciz	"Xamarin.Forms.Platform.Android.GradientStrokeDrawable+GradientShaderFactory, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7082, 108
 	.section	.rodata.managed_type_name.7083,"aMS",%progbits,1
 	.type	.L.managed_type_name.7083, %object
 .L.managed_type_name.7083:
-	.asciz	"Xamarin.Forms.Platform.Android.GroupableItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7083, 91
+	.asciz	"Xamarin.Forms.Platform.Android.GradientStrokeDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7083, 86
 	.section	.rodata.managed_type_name.7084,"aMS",%progbits,1
 	.type	.L.managed_type_name.7084, %object
 .L.managed_type_name.7084:
-	.asciz	"Xamarin.Forms.Platform.Android.GroupableItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7084, 92
+	.asciz	"Xamarin.Forms.Platform.Android.GridLayoutSpanSizeLookup, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7084, 88
 	.section	.rodata.managed_type_name.7085,"aMS",%progbits,1
 	.type	.L.managed_type_name.7085, %object
 .L.managed_type_name.7085:
-	.asciz	"Xamarin.Forms.Platform.Android.GroupedListViewAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7085, 86
+	.asciz	"Xamarin.Forms.Platform.Android.GroupableItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7085, 91
 	.section	.rodata.managed_type_name.7086,"aMS",%progbits,1
 	.type	.L.managed_type_name.7086, %object
 .L.managed_type_name.7086:
-	.asciz	"Xamarin.Forms.Platform.Android.ImageButtonRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7086, 83
+	.asciz	"Xamarin.Forms.Platform.Android.GroupableItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7086, 92
 	.section	.rodata.managed_type_name.7087,"aMS",%progbits,1
 	.type	.L.managed_type_name.7087, %object
 .L.managed_type_name.7087:
-	.asciz	"Xamarin.Forms.Platform.Android.ImageCache+CacheEntry, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7087, 85
+	.asciz	"Xamarin.Forms.Platform.Android.GroupedListViewAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7087, 86
 	.section	.rodata.managed_type_name.7088,"aMS",%progbits,1
 	.type	.L.managed_type_name.7088, %object
 .L.managed_type_name.7088:
-	.asciz	"Xamarin.Forms.Platform.Android.ImageCache+FormsLruCache, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7088, 88
+	.asciz	"Xamarin.Forms.Platform.Android.ImageButtonRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7088, 83
 	.section	.rodata.managed_type_name.7089,"aMS",%progbits,1
 	.type	.L.managed_type_name.7089, %object
 .L.managed_type_name.7089:
-	.asciz	"Xamarin.Forms.Platform.Android.ImageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7089, 77
+	.asciz	"Xamarin.Forms.Platform.Android.ImageCache+CacheEntry, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7089, 85
 	.section	.rodata.managed_type_name.7090,"aMS",%progbits,1
 	.type	.L.managed_type_name.7090, %object
 .L.managed_type_name.7090:
-	.asciz	"Xamarin.Forms.Platform.Android.IndicatorViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7090, 85
+	.asciz	"Xamarin.Forms.Platform.Android.ImageCache+FormsLruCache, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7090, 88
 	.section	.rodata.managed_type_name.7091,"aMS",%progbits,1
 	.type	.L.managed_type_name.7091, %object
 .L.managed_type_name.7091:
-	.asciz	"Xamarin.Forms.Platform.Android.InnerGestureListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7091, 84
+	.asciz	"Xamarin.Forms.Platform.Android.ImageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7091, 77
 	.section	.rodata.managed_type_name.7092,"aMS",%progbits,1
 	.type	.L.managed_type_name.7092, %object
 .L.managed_type_name.7092:
-	.asciz	"Xamarin.Forms.Platform.Android.InnerScaleListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7092, 82
+	.asciz	"Xamarin.Forms.Platform.Android.IndicatorViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7092, 85
 	.section	.rodata.managed_type_name.7093,"aMS",%progbits,1
 	.type	.L.managed_type_name.7093, %object
 .L.managed_type_name.7093:
-	.asciz	"Xamarin.Forms.Platform.Android.ItemContentView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7093, 79
+	.asciz	"Xamarin.Forms.Platform.Android.InnerGestureListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7093, 84
 	.section	.rodata.managed_type_name.7094,"aMS",%progbits,1
 	.type	.L.managed_type_name.7094, %object
 .L.managed_type_name.7094:
-	.asciz	"Xamarin.Forms.Platform.Android.ItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.InnerScaleListener, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7094, 82
 	.section	.rodata.managed_type_name.7095,"aMS",%progbits,1
 	.type	.L.managed_type_name.7095, %object
 .L.managed_type_name.7095:
-	.asciz	"Xamarin.Forms.Platform.Android.ItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7095, 83
+	.asciz	"Xamarin.Forms.Platform.Android.ItemContentView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7095, 79
 	.section	.rodata.managed_type_name.7096,"aMS",%progbits,1
 	.type	.L.managed_type_name.7096, %object
 .L.managed_type_name.7096:
-	.asciz	"Xamarin.Forms.Platform.Android.LabelRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7096, 77
+	.asciz	"Xamarin.Forms.Platform.Android.ItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7096, 82
 	.section	.rodata.managed_type_name.7097,"aMS",%progbits,1
 	.type	.L.managed_type_name.7097, %object
 .L.managed_type_name.7097:
-	.asciz	"Xamarin.Forms.Platform.Android.LineRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7097, 76
+	.asciz	"Xamarin.Forms.Platform.Android.ItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7097, 83
 	.section	.rodata.managed_type_name.7098,"aMS",%progbits,1
 	.type	.L.managed_type_name.7098, %object
 .L.managed_type_name.7098:
-	.asciz	"Xamarin.Forms.Platform.Android.LineView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7098, 72
+	.asciz	"Xamarin.Forms.Platform.Android.LabelRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7098, 77
 	.section	.rodata.managed_type_name.7099,"aMS",%progbits,1
 	.type	.L.managed_type_name.7099, %object
 .L.managed_type_name.7099:
-	.asciz	"Xamarin.Forms.Platform.Android.ListViewAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7099, 79
+	.asciz	"Xamarin.Forms.Platform.Android.LineRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7099, 76
 	.section	.rodata.managed_type_name.7100,"aMS",%progbits,1
 	.type	.L.managed_type_name.7100, %object
 .L.managed_type_name.7100:
-	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer+Container, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7100, 90
+	.asciz	"Xamarin.Forms.Platform.Android.LineView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7100, 72
 	.section	.rodata.managed_type_name.7101,"aMS",%progbits,1
 	.type	.L.managed_type_name.7101, %object
 .L.managed_type_name.7101:
-	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer+ListViewScrollDetector, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7101, 103
+	.asciz	"Xamarin.Forms.Platform.Android.ListViewAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7101, 79
 	.section	.rodata.managed_type_name.7102,"aMS",%progbits,1
 	.type	.L.managed_type_name.7102, %object
 .L.managed_type_name.7102:
-	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer+SwipeRefreshLayoutWithFixedNestedScrolling, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7102, 123
+	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer+Container, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7102, 90
 	.section	.rodata.managed_type_name.7103,"aMS",%progbits,1
 	.type	.L.managed_type_name.7103, %object
 .L.managed_type_name.7103:
-	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7103, 80
+	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer+ListViewScrollDetector, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7103, 103
 	.section	.rodata.managed_type_name.7104,"aMS",%progbits,1
 	.type	.L.managed_type_name.7104, %object
 .L.managed_type_name.7104:
-	.asciz	"Xamarin.Forms.Platform.Android.LocalizedDigitsKeyListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7104, 90
+	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer+SwipeRefreshLayoutWithFixedNestedScrolling, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7104, 123
 	.section	.rodata.managed_type_name.7105,"aMS",%progbits,1
 	.type	.L.managed_type_name.7105, %object
 .L.managed_type_name.7105:
-	.asciz	"Xamarin.Forms.Platform.Android.MasterDetailContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7105, 85
+	.asciz	"Xamarin.Forms.Platform.Android.ListViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7105, 80
 	.section	.rodata.managed_type_name.7106,"aMS",%progbits,1
 	.type	.L.managed_type_name.7106, %object
 .L.managed_type_name.7106:
-	.asciz	"Xamarin.Forms.Platform.Android.MasterDetailRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7106, 84
+	.asciz	"Xamarin.Forms.Platform.Android.LocalizedDigitsKeyListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7106, 90
 	.section	.rodata.managed_type_name.7107,"aMS",%progbits,1
 	.type	.L.managed_type_name.7107, %object
 .L.managed_type_name.7107:
-	.asciz	"Xamarin.Forms.Platform.Android.MediaElementRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7107, 84
+	.asciz	"Xamarin.Forms.Platform.Android.MasterDetailContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7107, 85
 	.section	.rodata.managed_type_name.7108,"aMS",%progbits,1
 	.type	.L.managed_type_name.7108, %object
 .L.managed_type_name.7108:
-	.asciz	"Xamarin.Forms.Platform.Android.NativeViewWrapperRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7108, 89
+	.asciz	"Xamarin.Forms.Platform.Android.MasterDetailRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7108, 84
 	.section	.rodata.managed_type_name.7109,"aMS",%progbits,1
 	.type	.L.managed_type_name.7109, %object
 .L.managed_type_name.7109:
-	.asciz	"Xamarin.Forms.Platform.Android.NavigationRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7109, 82
+	.asciz	"Xamarin.Forms.Platform.Android.MediaElementRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7109, 84
 	.section	.rodata.managed_type_name.7110,"aMS",%progbits,1
 	.type	.L.managed_type_name.7110, %object
 .L.managed_type_name.7110:
-	.asciz	"Xamarin.Forms.Platform.Android.NongreedySnapHelper+InitialScrollListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7110, 105
+	.asciz	"Xamarin.Forms.Platform.Android.NativeViewWrapperRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7110, 89
 	.section	.rodata.managed_type_name.7111,"aMS",%progbits,1
 	.type	.L.managed_type_name.7111, %object
 .L.managed_type_name.7111:
-	.asciz	"Xamarin.Forms.Platform.Android.NongreedySnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7111, 83
+	.asciz	"Xamarin.Forms.Platform.Android.NavigationRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7111, 82
 	.section	.rodata.managed_type_name.7112,"aMS",%progbits,1
 	.type	.L.managed_type_name.7112, %object
 .L.managed_type_name.7112:
-	.asciz	"Xamarin.Forms.Platform.Android.ObjectJavaBox`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7112, 79
+	.asciz	"Xamarin.Forms.Platform.Android.NongreedySnapHelper+InitialScrollListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7112, 105
 	.section	.rodata.managed_type_name.7113,"aMS",%progbits,1
 	.type	.L.managed_type_name.7113, %object
 .L.managed_type_name.7113:
-	.asciz	"Xamarin.Forms.Platform.Android.OpenGLViewRenderer+Renderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7113, 91
+	.asciz	"Xamarin.Forms.Platform.Android.NongreedySnapHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7113, 83
 	.section	.rodata.managed_type_name.7114,"aMS",%progbits,1
 	.type	.L.managed_type_name.7114, %object
 .L.managed_type_name.7114:
-	.asciz	"Xamarin.Forms.Platform.Android.OpenGLViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7114, 82
+	.asciz	"Xamarin.Forms.Platform.Android.ObjectJavaBox`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7114, 79
 	.section	.rodata.managed_type_name.7115,"aMS",%progbits,1
 	.type	.L.managed_type_name.7115, %object
 .L.managed_type_name.7115:
-	.asciz	"Xamarin.Forms.Platform.Android.PageContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7115, 77
+	.asciz	"Xamarin.Forms.Platform.Android.OpenGLViewRenderer+Renderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7115, 91
 	.section	.rodata.managed_type_name.7116,"aMS",%progbits,1
 	.type	.L.managed_type_name.7116, %object
 .L.managed_type_name.7116:
-	.asciz	"Xamarin.Forms.Platform.Android.PageExtensions+EmbeddedFragment, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7116, 95
+	.asciz	"Xamarin.Forms.Platform.Android.OpenGLViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7116, 82
 	.section	.rodata.managed_type_name.7117,"aMS",%progbits,1
 	.type	.L.managed_type_name.7117, %object
 .L.managed_type_name.7117:
-	.asciz	"Xamarin.Forms.Platform.Android.PageExtensions+EmbeddedSupportFragment, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7117, 102
+	.asciz	"Xamarin.Forms.Platform.Android.PageContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7117, 77
 	.section	.rodata.managed_type_name.7118,"aMS",%progbits,1
 	.type	.L.managed_type_name.7118, %object
 .L.managed_type_name.7118:
-	.asciz	"Xamarin.Forms.Platform.Android.PageRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7118, 76
+	.asciz	"Xamarin.Forms.Platform.Android.PageExtensions+EmbeddedFragment, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7118, 95
 	.section	.rodata.managed_type_name.7119,"aMS",%progbits,1
 	.type	.L.managed_type_name.7119, %object
 .L.managed_type_name.7119:
-	.asciz	"Xamarin.Forms.Platform.Android.PathRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7119, 76
+	.asciz	"Xamarin.Forms.Platform.Android.PageExtensions+EmbeddedSupportFragment, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7119, 102
 	.section	.rodata.managed_type_name.7120,"aMS",%progbits,1
 	.type	.L.managed_type_name.7120, %object
 .L.managed_type_name.7120:
-	.asciz	"Xamarin.Forms.Platform.Android.PathView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7120, 72
+	.asciz	"Xamarin.Forms.Platform.Android.PageRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7120, 76
 	.section	.rodata.managed_type_name.7121,"aMS",%progbits,1
 	.type	.L.managed_type_name.7121, %object
 .L.managed_type_name.7121:
-	.asciz	"Xamarin.Forms.Platform.Android.PickerEditText, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7121, 78
+	.asciz	"Xamarin.Forms.Platform.Android.PathRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7121, 76
 	.section	.rodata.managed_type_name.7122,"aMS",%progbits,1
 	.type	.L.managed_type_name.7122, %object
 .L.managed_type_name.7122:
-	.asciz	"Xamarin.Forms.Platform.Android.PickerManager+PickerListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7122, 92
+	.asciz	"Xamarin.Forms.Platform.Android.PathView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7122, 72
 	.section	.rodata.managed_type_name.7123,"aMS",%progbits,1
 	.type	.L.managed_type_name.7123, %object
 .L.managed_type_name.7123:
-	.asciz	"Xamarin.Forms.Platform.Android.PickerRenderer, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.PickerEditText, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7123, 78
 	.section	.rodata.managed_type_name.7124,"aMS",%progbits,1
 	.type	.L.managed_type_name.7124, %object
 .L.managed_type_name.7124:
-	.asciz	"Xamarin.Forms.Platform.Android.Platform+DefaultRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7124, 88
+	.asciz	"Xamarin.Forms.Platform.Android.PickerManager+PickerListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7124, 92
 	.section	.rodata.managed_type_name.7125,"aMS",%progbits,1
 	.type	.L.managed_type_name.7125, %object
 .L.managed_type_name.7125:
-	.asciz	"Xamarin.Forms.Platform.Android.PlatformRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7125, 80
+	.asciz	"Xamarin.Forms.Platform.Android.PickerRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7125, 78
 	.section	.rodata.managed_type_name.7126,"aMS",%progbits,1
 	.type	.L.managed_type_name.7126, %object
 .L.managed_type_name.7126:
-	.asciz	"Xamarin.Forms.Platform.Android.PolygonRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7126, 79
+	.asciz	"Xamarin.Forms.Platform.Android.Platform+DefaultRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7126, 88
 	.section	.rodata.managed_type_name.7127,"aMS",%progbits,1
 	.type	.L.managed_type_name.7127, %object
 .L.managed_type_name.7127:
-	.asciz	"Xamarin.Forms.Platform.Android.PolygonView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7127, 75
+	.asciz	"Xamarin.Forms.Platform.Android.PlatformRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7127, 80
 	.section	.rodata.managed_type_name.7128,"aMS",%progbits,1
 	.type	.L.managed_type_name.7128, %object
 .L.managed_type_name.7128:
-	.asciz	"Xamarin.Forms.Platform.Android.PolylineRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7128, 80
+	.asciz	"Xamarin.Forms.Platform.Android.PolygonRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7128, 79
 	.section	.rodata.managed_type_name.7129,"aMS",%progbits,1
 	.type	.L.managed_type_name.7129, %object
 .L.managed_type_name.7129:
-	.asciz	"Xamarin.Forms.Platform.Android.PolylineView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7129, 76
+	.asciz	"Xamarin.Forms.Platform.Android.PolygonView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7129, 75
 	.section	.rodata.managed_type_name.7130,"aMS",%progbits,1
 	.type	.L.managed_type_name.7130, %object
 .L.managed_type_name.7130:
-	.asciz	"Xamarin.Forms.Platform.Android.PositionalSmoothScroller, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7130, 88
+	.asciz	"Xamarin.Forms.Platform.Android.PolylineRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7130, 80
 	.section	.rodata.managed_type_name.7131,"aMS",%progbits,1
 	.type	.L.managed_type_name.7131, %object
 .L.managed_type_name.7131:
-	.asciz	"Xamarin.Forms.Platform.Android.PowerSaveModeBroadcastReceiver, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7131, 94
+	.asciz	"Xamarin.Forms.Platform.Android.PolylineView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7131, 76
 	.section	.rodata.managed_type_name.7132,"aMS",%progbits,1
 	.type	.L.managed_type_name.7132, %object
 .L.managed_type_name.7132:
-	.asciz	"Xamarin.Forms.Platform.Android.ProgressBarRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7132, 83
+	.asciz	"Xamarin.Forms.Platform.Android.PositionalSmoothScroller, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7132, 88
 	.section	.rodata.managed_type_name.7133,"aMS",%progbits,1
 	.type	.L.managed_type_name.7133, %object
 .L.managed_type_name.7133:
-	.asciz	"Xamarin.Forms.Platform.Android.RadioButtonRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7133, 83
+	.asciz	"Xamarin.Forms.Platform.Android.PowerSaveModeBroadcastReceiver, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7133, 94
 	.section	.rodata.managed_type_name.7134,"aMS",%progbits,1
 	.type	.L.managed_type_name.7134, %object
 .L.managed_type_name.7134:
-	.asciz	"Xamarin.Forms.Platform.Android.RectView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7134, 72
+	.asciz	"Xamarin.Forms.Platform.Android.ProgressBarRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7134, 83
 	.section	.rodata.managed_type_name.7135,"aMS",%progbits,1
 	.type	.L.managed_type_name.7135, %object
 .L.managed_type_name.7135:
-	.asciz	"Xamarin.Forms.Platform.Android.RectangleRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7135, 81
+	.asciz	"Xamarin.Forms.Platform.Android.RadioButtonRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7135, 83
 	.section	.rodata.managed_type_name.7136,"aMS",%progbits,1
 	.type	.L.managed_type_name.7136, %object
 .L.managed_type_name.7136:
-	.asciz	"Xamarin.Forms.Platform.Android.RefreshViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7136, 83
+	.asciz	"Xamarin.Forms.Platform.Android.RectView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7136, 72
 	.section	.rodata.managed_type_name.7137,"aMS",%progbits,1
 	.type	.L.managed_type_name.7137, %object
 .L.managed_type_name.7137:
-	.asciz	"Xamarin.Forms.Platform.Android.ScrollHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7137, 76
+	.asciz	"Xamarin.Forms.Platform.Android.RectangleRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7137, 81
 	.section	.rodata.managed_type_name.7138,"aMS",%progbits,1
 	.type	.L.managed_type_name.7138, %object
 .L.managed_type_name.7138:
-	.asciz	"Xamarin.Forms.Platform.Android.ScrollLayoutManager, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.RefreshViewRenderer, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7138, 83
 	.section	.rodata.managed_type_name.7139,"aMS",%progbits,1
 	.type	.L.managed_type_name.7139, %object
 .L.managed_type_name.7139:
-	.asciz	"Xamarin.Forms.Platform.Android.ScrollViewContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7139, 83
+	.asciz	"Xamarin.Forms.Platform.Android.ScrollHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7139, 76
 	.section	.rodata.managed_type_name.7140,"aMS",%progbits,1
 	.type	.L.managed_type_name.7140, %object
 .L.managed_type_name.7140:
-	.asciz	"Xamarin.Forms.Platform.Android.ScrollViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7140, 82
+	.asciz	"Xamarin.Forms.Platform.Android.ScrollLayoutManager, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7140, 83
 	.section	.rodata.managed_type_name.7141,"aMS",%progbits,1
 	.type	.L.managed_type_name.7141, %object
 .L.managed_type_name.7141:
-	.asciz	"Xamarin.Forms.Platform.Android.SearchBarRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7141, 81
+	.asciz	"Xamarin.Forms.Platform.Android.ScrollViewContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7141, 83
 	.section	.rodata.managed_type_name.7142,"aMS",%progbits,1
 	.type	.L.managed_type_name.7142, %object
 .L.managed_type_name.7142:
-	.asciz	"Xamarin.Forms.Platform.Android.SelectableItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7142, 92
+	.asciz	"Xamarin.Forms.Platform.Android.ScrollViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7142, 82
 	.section	.rodata.managed_type_name.7143,"aMS",%progbits,1
 	.type	.L.managed_type_name.7143, %object
 .L.managed_type_name.7143:
-	.asciz	"Xamarin.Forms.Platform.Android.SelectableItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7143, 93
+	.asciz	"Xamarin.Forms.Platform.Android.SearchBarRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7143, 81
 	.section	.rodata.managed_type_name.7144,"aMS",%progbits,1
 	.type	.L.managed_type_name.7144, %object
 .L.managed_type_name.7144:
-	.asciz	"Xamarin.Forms.Platform.Android.SelectableViewHolder, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7144, 84
+	.asciz	"Xamarin.Forms.Platform.Android.SelectableItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7144, 92
 	.section	.rodata.managed_type_name.7145,"aMS",%progbits,1
 	.type	.L.managed_type_name.7145, %object
 .L.managed_type_name.7145:
-	.asciz	"Xamarin.Forms.Platform.Android.ShapeRenderer`2, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7145, 79
+	.asciz	"Xamarin.Forms.Platform.Android.SelectableItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7145, 93
 	.section	.rodata.managed_type_name.7146,"aMS",%progbits,1
 	.type	.L.managed_type_name.7146, %object
 .L.managed_type_name.7146:
-	.asciz	"Xamarin.Forms.Platform.Android.ShapeView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7146, 73
+	.asciz	"Xamarin.Forms.Platform.Android.SelectableViewHolder, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7146, 84
 	.section	.rodata.managed_type_name.7147,"aMS",%progbits,1
 	.type	.L.managed_type_name.7147, %object
 .L.managed_type_name.7147:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellContentFragment, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7147, 84
+	.asciz	"Xamarin.Forms.Platform.Android.ShapeRenderer`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7147, 79
 	.section	.rodata.managed_type_name.7148,"aMS",%progbits,1
 	.type	.L.managed_type_name.7148, %object
 .L.managed_type_name.7148:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRecyclerAdapter+ElementViewHolder, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7148, 108
+	.asciz	"Xamarin.Forms.Platform.Android.ShapeView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7148, 73
 	.section	.rodata.managed_type_name.7149,"aMS",%progbits,1
 	.type	.L.managed_type_name.7149, %object
 .L.managed_type_name.7149:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRecyclerAdapter+LinearLayoutWithFocus, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7149, 112
+	.asciz	"Xamarin.Forms.Platform.Android.ShellContentFragment, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7149, 84
 	.section	.rodata.managed_type_name.7150,"aMS",%progbits,1
 	.type	.L.managed_type_name.7150, %object
 .L.managed_type_name.7150:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRecyclerAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7150, 90
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRecyclerAdapter+ElementViewHolder, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7150, 108
 	.section	.rodata.managed_type_name.7151,"aMS",%progbits,1
 	.type	.L.managed_type_name.7151, %object
 .L.managed_type_name.7151:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7151, 83
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRecyclerAdapter+LinearLayoutWithFocus, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7151, 112
 	.section	.rodata.managed_type_name.7152,"aMS",%progbits,1
 	.type	.L.managed_type_name.7152, %object
 .L.managed_type_name.7152:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutTemplatedContentRenderer+HeaderContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7152, 115
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRecyclerAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7152, 90
 	.section	.rodata.managed_type_name.7153,"aMS",%progbits,1
 	.type	.L.managed_type_name.7153, %object
 .L.managed_type_name.7153:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutTemplatedContentRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7153, 99
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7153, 83
 	.section	.rodata.managed_type_name.7154,"aMS",%progbits,1
 	.type	.L.managed_type_name.7154, %object
 .L.managed_type_name.7154:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellFragmentPagerAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7154, 89
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutTemplatedContentRenderer+HeaderContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7154, 115
 	.section	.rodata.managed_type_name.7155,"aMS",%progbits,1
 	.type	.L.managed_type_name.7155, %object
 .L.managed_type_name.7155:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellItemRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7155, 81
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFlyoutTemplatedContentRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7155, 99
 	.section	.rodata.managed_type_name.7156,"aMS",%progbits,1
 	.type	.L.managed_type_name.7156, %object
 .L.managed_type_name.7156:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellItemRendererBase, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7156, 85
+	.asciz	"Xamarin.Forms.Platform.Android.ShellFragmentPagerAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7156, 89
 	.section	.rodata.managed_type_name.7157,"aMS",%progbits,1
 	.type	.L.managed_type_name.7157, %object
 .L.managed_type_name.7157:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellPageContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7157, 82
+	.asciz	"Xamarin.Forms.Platform.Android.ShellItemRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7157, 81
 	.section	.rodata.managed_type_name.7158,"aMS",%progbits,1
 	.type	.L.managed_type_name.7158, %object
 .L.managed_type_name.7158:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellRenderer+SplitDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7158, 91
+	.asciz	"Xamarin.Forms.Platform.Android.ShellItemRendererBase, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7158, 85
 	.section	.rodata.managed_type_name.7159,"aMS",%progbits,1
 	.type	.L.managed_type_name.7159, %object
 .L.managed_type_name.7159:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchView+ClipDrawableWrapper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7159, 99
+	.asciz	"Xamarin.Forms.Platform.Android.ShellPageContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7159, 82
 	.section	.rodata.managed_type_name.7160,"aMS",%progbits,1
 	.type	.L.managed_type_name.7160, %object
 .L.managed_type_name.7160:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7160, 79
+	.asciz	"Xamarin.Forms.Platform.Android.ShellRenderer+SplitDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7160, 91
 	.section	.rodata.managed_type_name.7161,"aMS",%progbits,1
 	.type	.L.managed_type_name.7161, %object
 .L.managed_type_name.7161:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchViewAdapter+CustomFilter, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchView+ClipDrawableWrapper, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7161, 99
 	.section	.rodata.managed_type_name.7162,"aMS",%progbits,1
 	.type	.L.managed_type_name.7162, %object
 .L.managed_type_name.7162:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchViewAdapter+ObjectWrapper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7162, 100
+	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7162, 79
 	.section	.rodata.managed_type_name.7163,"aMS",%progbits,1
 	.type	.L.managed_type_name.7163, %object
 .L.managed_type_name.7163:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchViewAdapter, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7163, 86
+	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchViewAdapter+CustomFilter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7163, 99
 	.section	.rodata.managed_type_name.7164,"aMS",%progbits,1
 	.type	.L.managed_type_name.7164, %object
 .L.managed_type_name.7164:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellSectionRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7164, 84
+	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchViewAdapter+ObjectWrapper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7164, 100
 	.section	.rodata.managed_type_name.7165,"aMS",%progbits,1
 	.type	.L.managed_type_name.7165, %object
 .L.managed_type_name.7165:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellToolbarTracker+FlyoutIconDrawerDrawable, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7165, 108
+	.asciz	"Xamarin.Forms.Platform.Android.ShellSearchViewAdapter, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7165, 86
 	.section	.rodata.managed_type_name.7166,"aMS",%progbits,1
 	.type	.L.managed_type_name.7166, %object
 .L.managed_type_name.7166:
-	.asciz	"Xamarin.Forms.Platform.Android.ShellToolbarTracker, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7166, 83
+	.asciz	"Xamarin.Forms.Platform.Android.ShellSectionRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7166, 84
 	.section	.rodata.managed_type_name.7167,"aMS",%progbits,1
 	.type	.L.managed_type_name.7167, %object
 .L.managed_type_name.7167:
-	.asciz	"Xamarin.Forms.Platform.Android.SimpleViewHolder, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7167, 80
+	.asciz	"Xamarin.Forms.Platform.Android.ShellToolbarTracker+FlyoutIconDrawerDrawable, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7167, 108
 	.section	.rodata.managed_type_name.7168,"aMS",%progbits,1
 	.type	.L.managed_type_name.7168, %object
 .L.managed_type_name.7168:
-	.asciz	"Xamarin.Forms.Platform.Android.SingleSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7168, 80
+	.asciz	"Xamarin.Forms.Platform.Android.ShellToolbarTracker, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7168, 83
 	.section	.rodata.managed_type_name.7169,"aMS",%progbits,1
 	.type	.L.managed_type_name.7169, %object
 .L.managed_type_name.7169:
-	.asciz	"Xamarin.Forms.Platform.Android.SizedItemContentView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7169, 84
+	.asciz	"Xamarin.Forms.Platform.Android.SimpleViewHolder, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7169, 80
 	.section	.rodata.managed_type_name.7170,"aMS",%progbits,1
 	.type	.L.managed_type_name.7170, %object
 .L.managed_type_name.7170:
-	.asciz	"Xamarin.Forms.Platform.Android.SliderRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7170, 78
+	.asciz	"Xamarin.Forms.Platform.Android.SingleSnapHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7170, 80
 	.section	.rodata.managed_type_name.7171,"aMS",%progbits,1
 	.type	.L.managed_type_name.7171, %object
 .L.managed_type_name.7171:
-	.asciz	"Xamarin.Forms.Platform.Android.SpacingItemDecoration, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7171, 85
+	.asciz	"Xamarin.Forms.Platform.Android.SizedItemContentView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7171, 84
 	.section	.rodata.managed_type_name.7172,"aMS",%progbits,1
 	.type	.L.managed_type_name.7172, %object
 .L.managed_type_name.7172:
-	.asciz	"Xamarin.Forms.Platform.Android.StartSingleSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7172, 85
+	.asciz	"Xamarin.Forms.Platform.Android.SliderRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7172, 78
 	.section	.rodata.managed_type_name.7173,"aMS",%progbits,1
 	.type	.L.managed_type_name.7173, %object
 .L.managed_type_name.7173:
-	.asciz	"Xamarin.Forms.Platform.Android.StartSnapHelper, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7173, 79
+	.asciz	"Xamarin.Forms.Platform.Android.SpacingItemDecoration, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7173, 85
 	.section	.rodata.managed_type_name.7174,"aMS",%progbits,1
 	.type	.L.managed_type_name.7174, %object
 .L.managed_type_name.7174:
-	.asciz	"Xamarin.Forms.Platform.Android.StepperRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7174, 79
+	.asciz	"Xamarin.Forms.Platform.Android.StartSingleSnapHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7174, 85
 	.section	.rodata.managed_type_name.7175,"aMS",%progbits,1
 	.type	.L.managed_type_name.7175, %object
 .L.managed_type_name.7175:
-	.asciz	"Xamarin.Forms.Platform.Android.StepperRendererManager+StepperListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7175, 102
+	.asciz	"Xamarin.Forms.Platform.Android.StartSnapHelper, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7175, 79
 	.section	.rodata.managed_type_name.7176,"aMS",%progbits,1
 	.type	.L.managed_type_name.7176, %object
 .L.managed_type_name.7176:
-	.asciz	"Xamarin.Forms.Platform.Android.StructuredItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7176, 92
+	.asciz	"Xamarin.Forms.Platform.Android.StepperRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7176, 79
 	.section	.rodata.managed_type_name.7177,"aMS",%progbits,1
 	.type	.L.managed_type_name.7177, %object
 .L.managed_type_name.7177:
-	.asciz	"Xamarin.Forms.Platform.Android.StructuredItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7177, 93
+	.asciz	"Xamarin.Forms.Platform.Android.StepperRendererManager+StepperListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7177, 102
 	.section	.rodata.managed_type_name.7178,"aMS",%progbits,1
 	.type	.L.managed_type_name.7178, %object
 .L.managed_type_name.7178:
-	.asciz	"Xamarin.Forms.Platform.Android.SwipeViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7178, 81
+	.asciz	"Xamarin.Forms.Platform.Android.StructuredItemsViewAdapter`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7178, 92
 	.section	.rodata.managed_type_name.7179,"aMS",%progbits,1
 	.type	.L.managed_type_name.7179, %object
 .L.managed_type_name.7179:
-	.asciz	"Xamarin.Forms.Platform.Android.SwitchCellView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7179, 78
+	.asciz	"Xamarin.Forms.Platform.Android.StructuredItemsViewRenderer`3, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7179, 93
 	.section	.rodata.managed_type_name.7180,"aMS",%progbits,1
 	.type	.L.managed_type_name.7180, %object
 .L.managed_type_name.7180:
-	.asciz	"Xamarin.Forms.Platform.Android.SwitchRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7180, 78
+	.asciz	"Xamarin.Forms.Platform.Android.SwipeViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7180, 81
 	.section	.rodata.managed_type_name.7181,"aMS",%progbits,1
 	.type	.L.managed_type_name.7181, %object
 .L.managed_type_name.7181:
-	.asciz	"Xamarin.Forms.Platform.Android.TabbedRenderer, Xamarin.Forms.Platform.Android"
+	.asciz	"Xamarin.Forms.Platform.Android.SwitchCellView, Xamarin.Forms.Platform.Android"
 	.size	.L.managed_type_name.7181, 78
 	.section	.rodata.managed_type_name.7182,"aMS",%progbits,1
 	.type	.L.managed_type_name.7182, %object
 .L.managed_type_name.7182:
-	.asciz	"Xamarin.Forms.Platform.Android.TableViewModelRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7182, 86
+	.asciz	"Xamarin.Forms.Platform.Android.SwitchRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7182, 78
 	.section	.rodata.managed_type_name.7183,"aMS",%progbits,1
 	.type	.L.managed_type_name.7183, %object
 .L.managed_type_name.7183:
-	.asciz	"Xamarin.Forms.Platform.Android.TableViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7183, 81
+	.asciz	"Xamarin.Forms.Platform.Android.TabbedRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7183, 78
 	.section	.rodata.managed_type_name.7184,"aMS",%progbits,1
 	.type	.L.managed_type_name.7184, %object
 .L.managed_type_name.7184:
-	.asciz	"Xamarin.Forms.Platform.Android.TemplatedItemViewHolder, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7184, 87
+	.asciz	"Xamarin.Forms.Platform.Android.TableViewModelRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7184, 86
 	.section	.rodata.managed_type_name.7185,"aMS",%progbits,1
 	.type	.L.managed_type_name.7185, %object
 .L.managed_type_name.7185:
-	.asciz	"Xamarin.Forms.Platform.Android.TextCellRenderer+TextCellView, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7185, 93
+	.asciz	"Xamarin.Forms.Platform.Android.TableViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7185, 81
 	.section	.rodata.managed_type_name.7186,"aMS",%progbits,1
 	.type	.L.managed_type_name.7186, %object
 .L.managed_type_name.7186:
-	.asciz	"Xamarin.Forms.Platform.Android.TextViewHolder, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7186, 78
+	.asciz	"Xamarin.Forms.Platform.Android.TemplatedItemViewHolder, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7186, 87
 	.section	.rodata.managed_type_name.7187,"aMS",%progbits,1
 	.type	.L.managed_type_name.7187, %object
 .L.managed_type_name.7187:
-	.asciz	"Xamarin.Forms.Platform.Android.TimePickerRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7187, 82
+	.asciz	"Xamarin.Forms.Platform.Android.TextCellRenderer+TextCellView, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7187, 93
 	.section	.rodata.managed_type_name.7188,"aMS",%progbits,1
 	.type	.L.managed_type_name.7188, %object
 .L.managed_type_name.7188:
-	.asciz	"Xamarin.Forms.Platform.Android.TimePickerRendererBase`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7188, 88
+	.asciz	"Xamarin.Forms.Platform.Android.TextViewHolder, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7188, 78
 	.section	.rodata.managed_type_name.7189,"aMS",%progbits,1
 	.type	.L.managed_type_name.7189, %object
 .L.managed_type_name.7189:
-	.asciz	"Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer+LongPressGestureListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7189, 123
+	.asciz	"Xamarin.Forms.Platform.Android.TimePickerRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7189, 82
 	.section	.rodata.managed_type_name.7190,"aMS",%progbits,1
 	.type	.L.managed_type_name.7190, %object
 .L.managed_type_name.7190:
-	.asciz	"Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer+TapGestureListener, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7190, 117
+	.asciz	"Xamarin.Forms.Platform.Android.TimePickerRendererBase`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7190, 88
 	.section	.rodata.managed_type_name.7191,"aMS",%progbits,1
 	.type	.L.managed_type_name.7191, %object
 .L.managed_type_name.7191:
-	.asciz	"Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7191, 98
+	.asciz	"Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer+LongPressGestureListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7191, 123
 	.section	.rodata.managed_type_name.7192,"aMS",%progbits,1
 	.type	.L.managed_type_name.7192, %object
 .L.managed_type_name.7192:
-	.asciz	"Xamarin.Forms.Platform.Android.ViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7192, 76
+	.asciz	"Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer+TapGestureListener, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7192, 117
 	.section	.rodata.managed_type_name.7193,"aMS",%progbits,1
 	.type	.L.managed_type_name.7193, %object
 .L.managed_type_name.7193:
-	.asciz	"Xamarin.Forms.Platform.Android.ViewRenderer`2, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7193, 78
+	.asciz	"Xamarin.Forms.Platform.Android.ViewCellRenderer+ViewCellContainer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7193, 98
 	.section	.rodata.managed_type_name.7194,"aMS",%progbits,1
 	.type	.L.managed_type_name.7194, %object
 .L.managed_type_name.7194:
-	.asciz	"Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7194, 87
+	.asciz	"Xamarin.Forms.Platform.Android.ViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7194, 76
 	.section	.rodata.managed_type_name.7195,"aMS",%progbits,1
 	.type	.L.managed_type_name.7195, %object
 .L.managed_type_name.7195:
-	.asciz	"Xamarin.Forms.Platform.Android.VisualElementTracker+AttachTracker, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7195, 98
+	.asciz	"Xamarin.Forms.Platform.Android.ViewRenderer`2, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7195, 78
 	.section	.rodata.managed_type_name.7196,"aMS",%progbits,1
 	.type	.L.managed_type_name.7196, %object
 .L.managed_type_name.7196:
-	.asciz	"Xamarin.Forms.Platform.Android.WebViewRenderer+JavascriptResult, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7196, 96
+	.asciz	"Xamarin.Forms.Platform.Android.VisualElementRenderer`1, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7196, 87
 	.section	.rodata.managed_type_name.7197,"aMS",%progbits,1
 	.type	.L.managed_type_name.7197, %object
 .L.managed_type_name.7197:
-	.asciz	"Xamarin.Forms.Platform.Android.WebViewRenderer, Xamarin.Forms.Platform.Android"
-	.size	.L.managed_type_name.7197, 79
+	.asciz	"Xamarin.Forms.Platform.Android.VisualElementTracker+AttachTracker, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7197, 98
 	.section	.rodata.managed_type_name.7198,"aMS",%progbits,1
 	.type	.L.managed_type_name.7198, %object
 .L.managed_type_name.7198:
-	.asciz	"XamarinUI.Droid.Custom.CustomEntryRenderer, XamarinUI.Android"
-	.size	.L.managed_type_name.7198, 62
+	.asciz	"Xamarin.Forms.Platform.Android.WebViewRenderer+JavascriptResult, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7198, 96
 	.section	.rodata.managed_type_name.7199,"aMS",%progbits,1
 	.type	.L.managed_type_name.7199, %object
 .L.managed_type_name.7199:
-	.asciz	"XamarinUI.Droid.MainActivity, XamarinUI.Android"
-	.size	.L.managed_type_name.7199, 48
+	.asciz	"Xamarin.Forms.Platform.Android.WebViewRenderer, Xamarin.Forms.Platform.Android"
+	.size	.L.managed_type_name.7199, 79
 	/* Managed type names: END */

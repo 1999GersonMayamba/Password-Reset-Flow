@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("XamarinUI.VIEW.CreateNewPasswordView.xaml", "VIEW/CreateNewPasswordView.xaml", typeof(global::XamarinUI.VIEW.CreateNewPasswordView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Password-Reset-Flow.VIEW.CreateNewPasswordView.xaml", "VIEW/CreateNewPasswordView.xaml", typeof(global::Password_Reset_Flow.VIEW.CreateNewPasswordView))]
 
-namespace XamarinUI.VIEW {
+namespace Password_Reset_Flow.VIEW {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("VIEW\\CreateNewPasswordView.xaml")]

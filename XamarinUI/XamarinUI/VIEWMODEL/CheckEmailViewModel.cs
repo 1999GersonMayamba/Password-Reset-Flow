@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
 using Xamarin.Forms;
-using XamarinUI.VIEW;
+using Password_Reset_Flow.VIEW;
 
-namespace XamarinUI.VIEWMODEL
+namespace Password_Reset_Flow.VIEWMODEL
 {
    public class CheckEmailViewModel: INotifyPropertyChanged
     {
