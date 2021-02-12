@@ -1,8 +1,8 @@
 # Password-Reset-Flow
 
 <p>
-  <img src="https://user-images.githubusercontent.com/57480551/107554287-09694780-6bd6-11eb-9ba3-8f40cb28904a.png" width="350" alt="accessibility tex="Location">
-  <img src="https://user-images.githubusercontent.com/57480551/107554299-0c643800-6bd6-11eb-8eb2-077ad1ddfc2e.png" width="350" title="Home">
+  <img src="https://user-images.githubusercontent.com/57480551/107802387-8ecd3300-6d61-11eb-811b-391e73f39d40.png" width="350" alt="accessibility tex="Location">
+  <img src="https://user-images.githubusercontent.com/57480551/107802394-9096f680-6d61-11eb-956b-9b0cbe950528.png" width="350" title="Home">
 </p>
 
 
