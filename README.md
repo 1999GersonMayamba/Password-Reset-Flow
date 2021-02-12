@@ -1,12 +1,11 @@
 # Password-Reset-Flow
 
 <p>
-  <img src="https://user-images.githubusercontent.com/57480551/107785546-02187a00-6d4d-11eb-82ab-ab21be9cc848.png" width="350" alt="accessibility tex="Location">
-  <img src="https://user-images.githubusercontent.com/57480551/107785556-03e23d80-6d4d-11eb-9dd1-d4f44b3eec09.png" width="350" title="Home">
+  <img src="https://user-images.githubusercontent.com/57480551/107554287-09694780-6bd6-11eb-9ba3-8f40cb28904a.png" width="350" alt="accessibility tex="Location">
+  <img src="https://user-images.githubusercontent.com/57480551/107554299-0c643800-6bd6-11eb-8eb2-077ad1ddfc2e.png" width="350" title="Home">
 </p>
 
 
 ⚠ UI replicated in Xamarin Forms. For more information about, you can enter to my blog -> https://mayambalive2016.medium.com/
 
-⚠ Design obteined from freebiesui -> https://freebiesui.com/xd-freebies/xd-app-designs/travel-app-start-screens-ui/
-    
+⚠ Design obteined from Dribble. -> https://dribbble.com/shots/14324778-Password-Reset-Flow
